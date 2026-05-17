@@ -4,8 +4,8 @@ Sou estudante de Ciência da Computação na Universidade Católica de Pernambuc
 
 Atualmente, venho desenvolvendo meus conhecimentos em computação em nuvem, cybersegurança e outras áreas da Tecnologia da Informação, buscando adquirir experiência prática, evoluir tecnicamente e construir uma trajetória sólida na área.
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fsofis_) 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofiiafarias) 
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fsofis_)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofiiafarias)
 [![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiasantosf011@gmail.com)
 
 <h3 align="left">Linguagens e Tecnologias:</h3>
