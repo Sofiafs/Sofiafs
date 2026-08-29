@@ -1,18 +1,53 @@
-## Hello there!!
+# Olá, eu sou Sofia Farias!
 
-<div align="center">
+## Sobre mim
+Estudante de Ciência da Computação na Universidade Católica de Pernambuco (UNICAP), cursando o 3º período, com formação Técnica em Análise e Desenvolvimento de Sistemas pelo SENAI. Tenho interesse em tecnologia, inovação e resolução de problemas, buscando constantemente desenvolver minhas habilidades técnicas e profissionais por meio de cursos, projetos e programas extracurriculares. Construindo carreira em computação em nuvem com interesse em infraestrutura, DevOps e segurança cloud, com foco em AWS.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Sofia+Farias;Cloud+Infrastructure+%7C+AWS;Ciberseguran%C3%A7a+%7C+Infraestrutura+em+Nuvem" alt="Typing SVG" />
+## Formação Acadêmica
 
-<br>
+**Bacharelado em Ciências da Computação**
+Universidade Católica de Pernambuco — UNICAP
+`cursando · Recife, PE`
 
-Sou estudante de Ciência da Computação na Universidade Católica de Pernambuco (UNICAP) e possuo formação Técnica em Análise e Desenvolvimento de Sistemas pelo SENAI. Tenho interesse em tecnologia, aprendizado contínuo e desenvolvimento de soluções que contribuam para resolver problemas de forma prática e eficiente.
+**Técnico em Análise e Desenvolvimento de Sistemas**
+SENAI
+`concluído`
 
-Atualmente, venho desenvolvendo meus conhecimentos em computação em nuvem, cybersegurança e outras áreas da Tecnologia da Informação, buscando adquirir experiência prática, evoluir tecnicamente e construir uma trajetória sólida na área.
+---
+
+## Cursos & Certificados
+
+**FAST — Cibersegurança**
+CESAR School · `concluído`
+
+**Training Camp — Analista Funcional Salesforce**
+DREAM EXPERIENCE · `concluído`
+Projeto final: sistema desenvolvido em grupo no Salesforce com metodologia Kanban
+
+**AWS Cloud Practitioner**
+Amazon Web Services — AWS Skill Builder · `em andamento`
+
+---
+
+## Tecnologias
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+## Contato
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fsofis_)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofiiafarias)
 [![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiasantosf011@gmail.com)
 
-<h3 align="left">Linguagens e Tecnologias:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Sofiafs&color=38bdf8&style=flat-square&label=visualizações+do+perfil" />
+</div>
