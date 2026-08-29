@@ -1,5 +1,11 @@
 ## Hello there!!
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Sofia+Farias;Cloud+Infrastructure+%7C+AWS;Ciberseguran%C3%A7a+%7C+Infraestrutura+em+Nuvem" alt="Typing SVG" />
+
+<br>
+
 Sou estudante de Ciência da Computação na Universidade Católica de Pernambuco (UNICAP) e possuo formação Técnica em Análise e Desenvolvimento de Sistemas pelo SENAI. Tenho interesse em tecnologia, aprendizado contínuo e desenvolvimento de soluções que contribuam para resolver problemas de forma prática e eficiente.
 
 Atualmente, venho desenvolvendo meus conhecimentos em computação em nuvem, cybersegurança e outras áreas da Tecnologia da Informação, buscando adquirir experiência prática, evoluir tecnicamente e construir uma trajetória sólida na área.
