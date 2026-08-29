@@ -1,6 +1,6 @@
 # Olá, eu sou Sofia Farias! ☁️
-## Sobre mim
-Estudante de Ciência da Computação na Universidade Católica de Pernambuco (UNICAP), cursando o 3º período, com formação Técnica em Análise e Desenvolvimento de Sistemas pelo SENAI. Tenho interesse em tecnologia, inovação e resolução de problemas, buscando constantemente desenvolver minhas habilidades técnicas e profissionais por meio de cursos, projetos e programas extracurriculares. Construindo carreira em computação em nuvem com interesse em infraestrutura, DevOps e segurança cloud, com foco em AWS.
+**Estudante de Ciências da Computação | Infraestrutura em Nuvem | AWS**
+Cursando Ciência da Computação na Universidade Católica de Pernambuco (UNICAP), cursando o 3º período, com formação Técnica em Análise e Desenvolvimento de Sistemas pelo SENAI. Tenho interesse em tecnologia, inovação e resolução de problemas, buscando constantemente desenvolver minhas habilidades técnicas e profissionais por meio de cursos, projetos e programas extracurriculares. Construindo carreira em computação em nuvem com interesse em infraestrutura, DevOps e segurança cloud, com foco em AWS.
 
 ## Formação Acadêmica
 
