@@ -25,9 +25,6 @@ Projeto final: sistema desenvolvido em grupo no Salesforce com metodologia Kanba
 Amazon Web Services — AWS Skill Builder · `em andamento`
 
 ---
-
-## Linguagens e Tecnologias
-
 ## Linguagens e Tecnologias
 
 <p align="left">
