@@ -13,18 +13,6 @@ Universidade Católica de Pernambuco — UNICAP
 SENAI
 `concluído`
 
-## Cursos & Certificados
-
-**FAST — Cibersegurança**
-CESAR School · `concluído`
-
-**Training Camp — Analista Funcional Salesforce**
-DREAM EXPERIENCE · `concluído`
-Projeto final: sistema desenvolvido em grupo no Salesforce com metodologia Kanban
-
-**AWS Cloud Practitioner**
-Amazon Web Services — AWS Skill Builder · `em andamento`
-
 ---
 ## Linguagens e Tecnologias
 
